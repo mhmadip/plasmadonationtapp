@@ -2,7 +2,7 @@
 
 Plasama Donation App is developed by:
 
-1- @Mohammad Salim
+1- Mohammad Salim
 2- Payam Mohammed 
 3- Aveen Kakamin
 4- Aya Abdullah 
