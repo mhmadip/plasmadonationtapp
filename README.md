@@ -18,18 +18,18 @@ This Flutter project using:
 - Firebase authentication for login and sign up
 - Firestore to store donors and users details.
 - Many external libraries ( 
-  form_field_validator: ^1.0.1
-  flutter_svg: ^0.22.0
-  firebase_auth: ^1.1.4
-  cloud_firestore: ^2.1.0
-  firebase_core: ^1.1.1
-  provider: ^4.3.3
-  progress_dialog: ^1.2.4
-  url_launcher: ^6.0.3
-  flutter_phone_direct_caller: ^2.0.0
-  image_picker: ^0.7.5
-  firebase_storage: ^8.0.6
-  file_picker: ^3.0.1
-  cool_alert: ^1.0.3)
+  form_field_validator,
+  flutter_svg,
+  firebase_auth,
+  cloud_firestore,
+  firebase_core,
+  provider,
+  progress_dialog,
+  url_launcher,
+  flutter_phone_direct_caller,
+  image_picker,
+  firebase_storage,
+  file_picker,
+  cool_alert.
 
 However the app still underdevlopment to add more features and fix some bugs.
