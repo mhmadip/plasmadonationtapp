@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "571628741266",
+    "project_id": "tiufinalprojectplasma",
+    "storage_bucket": "tiufinalprojectplasma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571628741266:android:9fd152060cf689f490fc4b",
+        "android_client_info": {
+          "package_name": "com.example.plasmadonationfinalp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571628741266-alb6k673pec3kts39dp44irg9giq47nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJFLw2a8RnfN7x0vx89Eg3NHGBjoPGAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571628741266-alb6k673pec3kts39dp44irg9giq47nr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571628741266-5ufcea27uf5dr2hr3q22fnjp966vh9a1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plasmadonationfinalp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571628741266:android:fe0373d675546c7b90fc4b",
+        "android_client_info": {
+          "package_name": "com.example.plasmadonationtiu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571628741266-alb6k673pec3kts39dp44irg9giq47nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJFLw2a8RnfN7x0vx89Eg3NHGBjoPGAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571628741266-alb6k673pec3kts39dp44irg9giq47nr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "571628741266-5ufcea27uf5dr2hr3q22fnjp966vh9a1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plasmadonationfinalp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
