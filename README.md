@@ -1,10 +1,14 @@
 # plasmadonationtiu
 
-A new Flutter project.
+Plasama Donation App is developed by 
+1- Mohammad Salim
+2- Payam Mohammed Salim
+3- Aveen Kakamin
+4- Aya Abdullah 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a part of graducation project of IT Department in TIU University.
 
 A few resources to get you started if this is your first Flutter project:
 
