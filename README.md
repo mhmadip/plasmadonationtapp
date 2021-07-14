@@ -10,6 +10,8 @@ Plasama Donation App is developed by
 
 This project is a part of graducation project of IT Department in TIU University.
 
+<img width="795" alt="Screen Shot 2021-07-14 at 4 40 22 PM" src="https://user-images.githubusercontent.com/13988838/125632121-cdfd3a22-9158-4ecf-934f-845f83c96a7d.png">
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
